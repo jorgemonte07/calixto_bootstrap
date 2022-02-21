@@ -1,0 +1,41 @@
+Navbar --Barra para navegar
+
+mr-auto --Margin rigth --Calcula el margen
+ms-auto --para la versión bootstrap 5
+
+carousel --Imagenes pasando
+overlay  --Escribir en un carousel
+
+.btn-calixto:hover --hover es cuano se pasa el puntero por encima del boton
+
+Card --
+
+uppercase --Texto en mayusculas
+
+mb --Margin boton
+mt --Margin top
+
+.container-fluid --Expandirse a todo el ancho disponible, todo el ancho de la pantalla
+
+pl --padding-left o padding-rigth
+
+col-lg-6 --EN tamaño grande
+
+Forms --
+
+text-muted --Aparece un poco mas gris
+
+w-100 --Ocupe todo el ancho el button
+
+sticky-top (Version 4) - Scrollspy (Navegar en el header - ususario sepa donde esta ubicado )
+body data-bs-spy="scroll" data-bs-target="#navbar"
+div class="collapse navbar-collapse" id="navbar"
+href="#main"
+ <main id="main">
+
+ modal --
+
+git init
+git checkout -b gh-pages --Nueva rama
+git remote add origin <Pegar enlace> --Sitio de github
+git push -u origin gh-pages
